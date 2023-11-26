@@ -1,0 +1,7 @@
+[PROD]
+SpotifyClientID = your_client_id
+SpotifyClientSecret = your_client_secret
+SpotifyRedirectUrl = your_redirect_ip
+; more on https://developer.spotify.com/documentation/web-api
+
+[DEV]
